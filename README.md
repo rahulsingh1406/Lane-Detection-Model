@@ -2,7 +2,6 @@
 <br>
 The Lane Detection Project is a computer vision initiative aimed at improving the safety and efficiency of
 autonomous driving systems.<br>
-<br>
 Utilizing advanced image processing techniques and machine learning algorithms, this project focuses on
 accurately identifying and tracking lane markings on roadways in real-time.<br>
 <br>
